@@ -11,21 +11,5 @@
 🎓 INGENIERA EN COMPUTACION EN PROCESO...
 
 
-💻 tratando de aprender y mejorar cada dia en el mundo de la programacion)
+💻 tratando aprenediendo y navegando en el mundo de la programacion
 
-
-
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,github,vscode,c#,c++&perline=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
-  
