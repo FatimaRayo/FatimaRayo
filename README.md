@@ -11,5 +11,5 @@
 🎓 INGENIERA EN COMPUTACION EN PROCESO...
 
 
-💻 tratando aprenediendo y navegando en el mundo de la programacion
+💻 aprendiendo y navegando en el mundo de la programacion
 
