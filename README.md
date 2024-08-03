@@ -18,8 +18,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERA EN COMPUTACION EN PROCESO...
-
+Future developer...
 
 💻 aprendiendo y navegando en el mundo de la programacion
 
