@@ -18,7 +18,7 @@
 <!--Intro start-->
 
 <p align="left">
-Future developer...
+Future developer...👩🏽‍💻👩🏽‍💻👩🏽‍💻
 
-💻 aprendiendo y navegando en el mundo de la programacion
+💻 aprendiendo y navegando en el mundo de la programacion🚀
 
