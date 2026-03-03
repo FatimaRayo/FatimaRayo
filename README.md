@@ -1,11 +1,14 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Line">
-</p>
-<h1 align="center"><b>Hi there! I'm Fatima Rayo</b> <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100"></h1>
+<h1 align="center"><b>Hi there! I'm Fatima Rayo</b> <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="70"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monaco&color=0069D1&size=30&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;Programming+is+my+passion;Just+a+girl+coding+with+her+music;We+are+more+capable+than+we+think"></a>
-  <img align="right" width="200px" alt="Unicorn" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Top Line" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&color=0069D1&size=22&center=true&vCenter=true&width=400&height=100&lines=Welcome+to+my+Github;Programming+is+my+passion;Just+a+girl+coding+with+her+music;We+are+more+capable+than+we+think">
+  </a>
+  <img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" width="120">
 </p>
 
 <br>
@@ -26,7 +29,6 @@
 
   ![C](https://img.shields.io/badge/c-003366.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-003366.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-003366?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-003366?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-003366?style=for-the-badge&logo=javascript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-003366?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,7 +36,6 @@
   ![React](https://img.shields.io/badge/React-003366?style=for-the-badge&logo=react&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-003366?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![.Net](https://img.shields.io/badge/.NET-003366?style=for-the-badge&logo=.net&logoColor=white)
-  ![ASP.NET](https://img.shields.io/badge/ASP.NET-003366?style=for-the-badge&logo=aspdotnet&logoColor=white)
   ![Vite](https://img.shields.io/badge/vite-003366.svg?style=for-the-badge&logo=vite&logoColor=white)
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-003366?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-003366.svg?style=for-the-badge&logo=mysql&logoColor=white)
