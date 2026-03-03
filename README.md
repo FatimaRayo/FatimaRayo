@@ -8,9 +8,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&color=0069D1&size=22&center=true&vCenter=true&width=400&height=100&lines=Welcome+to+my+Github;Programming+is+my+passion;Just+a+girl+coding+with+her+music;We+are+more+capable+than+we+think">
   </a>
-  <img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" width="120">
-</p>
 
+  <p align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="180">
+</p>
+  
 <br>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px">&nbsp;***About me***
